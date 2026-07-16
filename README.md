@@ -1,6 +1,6 @@
 # Tanox
 
-** Développeur passionné | Administration système | Infrastructure | Open Source**
+**Développeur passionné | Administration système | Infrastructure | Open Source**
 
 ---
 
