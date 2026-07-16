@@ -42,16 +42,6 @@ Je suis actuellement en apprentissage des langages de programmation et j'amélio
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Profil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanox9090v2&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanox9090v2&theme=github_dark)
-
-![Langages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanox9090v2&theme=github_dark)
-
----
-
 ## 🎯 Objectifs
 
 - Développer des projets utiles
