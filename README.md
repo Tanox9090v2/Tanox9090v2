@@ -1,10 +1,10 @@
-# 👋 Salut, moi c'est Tanox
+# Tanox
 
-**💻 Développeur passionné | Administration système | Infrastructure | Open Source**
+** Développeur passionné | Administration système | Infrastructure | Open Source**
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
 Passionné par l'informatique depuis plusieurs années, j'aime créer des sites web, développer des projets et découvrir de nouvelles technologies.
 
@@ -14,27 +14,27 @@ Je travaille principalement sur des projets personnels autour du développement,
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
-### 📚 Langages
+### Langages
 
 Je suis actuellement en apprentissage des langages de programmation et j'améliore mes compétences au fil de mes projets.
 
-### 🖥️ Systèmes
+### Systèmes
 
 - Windows
 - Linux
 - Docker
 - Proxmox
 
-### 🔧 Outils
+### Outils
 
 - Antigravity IDE
 - Visual Studio Code
 - Cursor
 - Claude Code
 
-### 🌱 J'apprends actuellement
+### J'apprends actuellement
 
 - Les langages de programmation
 - L'électronique avec les Raspberry Pi Pico et ESP32
@@ -42,7 +42,7 @@ Je suis actuellement en apprentissage des langages de programmation et j'amélio
 
 ---
 
-## 🎯 Objectifs
+## Objectifs
 
 - Développer des projets utiles
 - Contribuer à l'Open Source
@@ -50,11 +50,9 @@ Je suis actuellement en apprentissage des langages de programmation et j'amélio
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 
 - Discord : **Tanox9090v2**
-- 🌐 Site web :[tanox.fr](https://tanox.fr)
+- Site web :[tanox.fr](https://tanox.fr)
 
 ---
-
-⭐ Merci d'être passé sur mon profil !
