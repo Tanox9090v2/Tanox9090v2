@@ -64,7 +64,7 @@ Je suis actuellement en apprentissage des langages de programmation et j'amélio
 
 - Discord : **Tanox9090v2**
 - 🌐 Site web :[tanox.fr](https://tanox.fr)
-[![Tanox](https://tanox.fr/tanox3.png)(https://tanox.fr)]
+
 ---
 
 ⭐ Merci d'être passé sur mon profil !
